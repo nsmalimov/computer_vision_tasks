@@ -1,9 +1,9 @@
-# computer_vision_tasks
+### computer_vision_tasks
 
-<p>task1:[PDF](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/intro-problems.pdf)</p>
+[task1](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/intro-problems.pdf)
 
-<p>task2:[PDF](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/2-3-problems.pdf)</p>
+[task2](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/2-3-problems.pdf)
 
-<p>task3:[PDF](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/4-1-problems.pdf)</p>
+[task3](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/4-1-problems.pdf)
 
-<p>task3:[PDF](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/zadanie-lm-ransac.pdf)</p>
+[task4](https://github.com/nsmalimov/computer_vision_tasks/blob/master/tasks_pdf/zadanie-lm-ransac.pdf)
